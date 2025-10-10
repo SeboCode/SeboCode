@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋 I'm Mike!
 
-<!--
-**SeboCode/SeboCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy all things related to building software, from frontend over backend to infrastructure and databases.
+Check out some of the stuff I build ✨.
 
-Here are some ideas to get you started:
+Currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Homelab
+- Personal Website
+
+Trying to learn/build something new every day such that these stats get better:
+
+<div clas="image-row" style="display: flex; align-items: stretch; gap: 1em;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeboCode&show_icons=true&theme=transparent" style="height: 150px; width: auto; display: block;">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeboCode&layout=compact&size_weight=0.5&count_weight=0.5&theme=transparent&langs_count=6" style="height: 150px; width: auto; display: block;"> -->
+</div>
