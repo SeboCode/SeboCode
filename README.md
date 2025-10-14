@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mike!
 
-I enjoy all things related to building software, from frontend over backend to infrastructure and databases.
+I like to code 🖥️(mainly backend and infrastructure), take nice pictures 📸 and lift heavy circles 🏋🏽‍♂️.
 Check out some of the stuff I build ✨.
 
 Currently working on:
