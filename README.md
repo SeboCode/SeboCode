@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mike!
 
-I like to code 🖥️(mainly backend and infrastructure), take nice pictures 📸 and lift heavy circles 🏋🏽‍♂️.
+I like to code 🖥️ (mainly backend and infrastructure), take nice pictures 📸 and lift heavy circles 🏋🏻‍♂️.
 Check out some of the stuff I build ✨.
 
 Currently working on:
